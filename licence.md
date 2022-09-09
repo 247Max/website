@@ -1,0 +1,1 @@
+Copyright (c) 2022 247Max All rights reserved.
