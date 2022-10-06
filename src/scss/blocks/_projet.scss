@@ -1,0 +1,35 @@
+.projet {
+  font-size: rem(18);
+  display: grid;
+  gap: var(--grid-gap);
+
+  h2 {
+    @extend .heading;
+  }
+
+  p + p {
+    margin: 0;
+  }
+
+  img {
+    height: auto;
+  }
+
+  &_director {
+    color: var(--color-primary);
+    text-transform: uppercase;
+    font-weight: 900;
+  }
+
+  &_meta {color: #767676;}
+
+  .button {
+    width: 100%;
+    text-align: center;
+  }
+
+  @include mq(small) {
+    grid-template-columns: 1fr 2fr;
+    &_extra {order: -1;}
+  }
+}

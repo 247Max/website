@@ -1,0 +1,26 @@
+.pagination {
+  &_list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  &_nav a,
+  &_number a {
+    padding: .5rem 1rem;
+    margin: 0 .5rem;
+    border: none;
+    text-decoration: none;
+  }
+
+  &_number a {
+    background-color: lighten($color: #000000, $amount: 10);
+    color: #fff;
+  }
+
+  a[aria-current] {
+    background-color: var(--color-primary);
+    color: #fff;
+  }
+}

@@ -1,0 +1,48 @@
+.hero {
+  width: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: grid;
+  gap: var(--grid-gap);
+  align-items: center;
+
+  &_logo {
+    @include fluid-type(200, 425);
+    transform: translateY(-.75rem); // optical compensation
+    margin: 0 auto;
+
+    @include mq(medium) {
+      margin: 0 auto;
+    }
+  }
+
+  &_separator {
+    border: none;
+    background-color: #fff;
+    height: 4px;
+    width: 100%;
+    margin: 0;
+  }
+
+  &_description {
+    line-height: 1.1;
+    font-weight: 900;
+    @include fluid-type(40, 120);
+
+    text-align: center;
+
+    @include mq(medium) {
+      text-align: left;
+    }
+  }
+
+  @include mq(medium) {
+    grid-template-columns: auto auto 1fr;
+
+    &_separator {
+      width: 4px;
+      height: 90%;
+      margin: 2rem;
+    }
+  }
+}

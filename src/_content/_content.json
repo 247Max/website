@@ -1,0 +1,19 @@
+{
+  "defaultLang": "fr",
+  "lang": "fr",
+  "texts": {
+    "credit": "247 Max © 2022 |  <a href=\"/mentions-legales\">Mentions légales</a> |  <a href=\"/plan-du-site\">Plan du site</a> | Site web réalisé par <a href=\"https://webtopie.fr\">Webtopie</a>",
+    "preview": "Bande annonce",
+    "dossier": "Dossier de presse"
+  },
+  "menu": [
+    ["/", "Accueil"],
+    ["/projets/", "Projets"],
+    ["/a-propos/", "À propos"],
+    ["/contact/", "Contact"]
+  ],
+  "urls": {
+    "legal": "Mentions légales",
+    "sitemap": "Plan du site"
+  }
+}

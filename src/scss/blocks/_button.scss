@@ -1,0 +1,37 @@
+/*
+## Buttons
+=====================*/
+.button {
+  --color-button-text: var(--color-text);
+  --color-button-background: var(--color-primary);
+  --color-button-focus: var(--color-text);
+  border: 2px solid transparent;
+  background-color: var(--color-button-background);
+  color: var(--color-button-text);
+  text-decoration: none;
+  display: inline-block;
+  margin: 1rem 0;
+  padding: 0.5rem 1.25rem 0.5rem 1rem;
+  border-radius: var(--border-radius);
+  font: inherit;
+  font-size: 1.25rem;
+  font-weight: 700;
+  transition: border-radius .3s ease;
+
+  &:hover {
+    opacity: .7;
+  }
+
+  &--outline {
+    --color-button-background: white;
+    border-color: #000;
+    
+    &:hover {
+      opacity: 1;
+      --color-button-background: #000;
+      --color-button-text: #fff;
+    }
+  }
+
+  + .button {margin-left: .5rem;}
+}
