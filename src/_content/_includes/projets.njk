@@ -9,7 +9,7 @@
       </div>
 
       <div class="projets">
-      {%- for projet in projets %}
+      {%- for projet in projets | sortByOrder %}
         <article>
           <a class="projets_link | aspect-ratio" style="--width: 425; --height: 592" href="{{ projet.url | url }}">
             <img src="{{ projet.data.imageList }}" alt="{{ projet.data.title }}" loading="lazy" height="640px">

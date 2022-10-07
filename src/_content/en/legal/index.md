@@ -1,6 +1,6 @@
 ---
 title: Legal
-meta-description: 247MAX legal informations
+metaDescription: 247MAX legal informations
 translatedUrl: /mentions-legales/
 ---
 

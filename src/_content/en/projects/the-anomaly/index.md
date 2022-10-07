@@ -1,9 +1,9 @@
 ---
 corps: corps
 title: "The Anomaly"
-meta-description: On June 25, 2021, Protocol 42 is launched by the US Army, when they get the report that an Air France Boeing 747 has landed twice, three months apart, with the same crew and the same passengers onboard.
+metaDescription: On June 25, 2021, Protocol 42 is launched by the US Army, when they get the report that an Air France Boeing 747 has landed twice, three months apart, with the same crew and the same passengers onboard.
 translatedUrl: /projets/l-anomalie/
-date: 2022-09-16
+order: 2
 image: /images/l-anomalie-single.png
 imageList: /images/the-anomaly-ven.png
 # file: /dossiers/polar-park.pdf
@@ -21,7 +21,7 @@ tags:
 ---
 
 <div class="grid-col">
- 
+
 ## Distribution
 
 Fremantle
@@ -30,7 +30,7 @@ Fremantle
 
 Antonin Baudry
 
-Adapted from the literary phenomenon by Hervé Le Tellier, The Anomaly (Gallimard Editions), Prix Goncourt 2020
+Adapted from the literary phenomenon by Hervé Le Tellier, _The Anomaly_ (Gallimard Editions), Prix Goncourt 2020
 
 ## Screenplay
 

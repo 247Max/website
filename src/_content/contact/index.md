@@ -1,6 +1,6 @@
 ---
 title: Contact
-meta-description: Vous pouvez nous contacter par mail, notre siège social se situe à Paris
+metaDescription: Vous pouvez nous contacter par mail, notre siège social se situe à Paris
 translatedUrl: /en/contact/
 ---
 

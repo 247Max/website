@@ -1,9 +1,9 @@
 ---
 corps: corps
-title: "L'anomalie"
-meta-description: Un Boeing 747 d’Air France a atterri deux fois à trois mois d’intervalle, avec à son bord le même équipage et les mêmes passagers, ce qui signifie que l’avion s’est tout simplement… dupliqué.
+title: "L'Anomalie"
+metaDescription: Un Boeing 747 d’Air France a atterri deux fois à trois mois d’intervalle, avec à son bord le même équipage et les mêmes passagers, ce qui signifie que l’avion s’est tout simplement… dupliqué.
 translatedUrl: /en/projects/the-anomaly/
-date: 2022-09-15
+order: 2
 image:  /images/l-anomalie-single.png
 imageList:  /images/l-anomalie-vf.png
 # file: /dossiers/polar-park.pdf
@@ -25,10 +25,10 @@ tags:
 ## Distribution
 Fremantle
 ​ 
-## Créée par
+## Créé par
 Antonin Baudry
 
-Adapté du phénomène littéraire d’Hervé Le Tellier, L’Anomalie (Editions Gallimard) Prix Goncourt 2020
+Adapté du phénomène littéraire d’Hervé Le Tellier, _L’Anomalie_ (Editions Gallimard) Prix Goncourt 2020
 ​ 
 ## Scénario
 Adapté pour la télévision par Antonin Baudry et Hervé Le Tellier

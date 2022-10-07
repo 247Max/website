@@ -1,9 +1,9 @@
 ---
 corps: corps
 title: "L’Enchanteur"
-meta-description: Juste après la parution de La Vie devant soi, Romain Gary fait incarner Émile Ajar par son petit cousin Paul Pavlowitch. La presse, les éditeurs, les lecteurs, tout le monde tombe dans le panneau. Enfin, presque tout le monde.
+metaDescription: Juste après la parution de La Vie devant soi, Romain Gary fait incarner Émile Ajar par son petit cousin Paul Pavlowitch. La presse, les éditeurs, les lecteurs, tout le monde tombe dans le panneau. Enfin, presque tout le monde.
 translatedUrl: /en/projects/the-enchanter/
-date: 2022-09-15
+order: 3
 image:  /images/l-enchanteur.png
 imageList: /images/l-enchanteur.png
 # file: /dossiers/polar-park.pdf

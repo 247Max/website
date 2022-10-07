@@ -1,6 +1,6 @@
 ---
 title: Mentions légales
-meta-description: Mentions légales, 2.4.7 MAX, Société par actions simplifiée dont le siège social est situé au 36 RUE ETIENNE MARCEL 75002 PARIS.
+metaDescription: Mentions légales, 2.4.7 MAX, Société par actions simplifiée dont le siège social est situé au 36 RUE ETIENNE MARCEL 75002 PARIS.
 translatedUrl: /en/legal/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Contact
-meta-description: You can contact us by mail, our offices are in Paris
+metaDescription: You can contact us by mail, our offices are in Paris
 translatedUrl: /contact/
 ---
 
@@ -10,12 +10,12 @@ translatedUrl: /contact/
 
 <div class="grid_col">
 
-<p class="heading mt0">mail</p>
+<p class="heading mt0">email</p>
 
 [dev@247max.fr](mailto:dev@247max.fr)
 
 
-<p class="heading">adress</p>
+<p class="heading">address</p>
 
 36 rue Etienne Marcel,<br>
 75002 Paris

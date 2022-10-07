@@ -1,9 +1,9 @@
 ---
 corps: corps
 title: "The Genius"
-meta-description: In a seedy flat abandoned by its tenant, Ethan Muller, a New-York gallery owner, discovers the biggest work of art ever created.
+metaDescription: In a seedy flat abandoned by its tenant, Ethan Muller, a New-York gallery owner, discovers the biggest work of art ever created.
 translatedUrl: /projets/les-visages/
-date: 2022-09-16
+order: 4
 image: /images/the-genius-ven.png
 imageList: /images/the-genius-ven.png
 # file: /dossiers/polar-park.pdf

@@ -1,6 +1,6 @@
 ---
 title: Projects
-meta-description: Discover the projects developed by 247Max
+metaDescription: Discover the projects developed by 247Max
 translatedUrl: /projets/
 pagination:
   data: collections.project

@@ -1,15 +1,15 @@
 ---
-title: à propos
-meta-description: à propos de 247MAX
+title: À propos
+metaDescription: À propos de 247MAX
 translatedUrl: /en/about/
 ---
 
-# à propos
+# À propos
 
 247 MAX est une société de production indépendante dédiée aux séries et aux films pour la
 télévision. Elle a été créée en 2019 par Médéric Albouy, anciennement responsable des
 coproductions fictions chez France Télévisions, avec Xavier Rigault et Marc-Antoine Robert,
-producteurs associés chez 247 Films (Persépolis, Simon Werner a disparu, La Délicatesse, Mains Armées, Jamais de la Vie, The History of Love, K.O, Les Hommes du Feu...). 
+producteurs associés chez 247 Films (_Persépolis_, _Simon Werner a disparu_, _La Délicatesse_, _Mains Armées_, _Jamais de la Vie_, _The History of Love_, _K.O_, _Les Hommes du Feu_...). 
 
 <hr role="presentation">
 
@@ -24,12 +24,12 @@ producteurs associés chez 247 Films (Persépolis, Simon Werner a disparu, La D�
     <li class="team_item">
       <img src="/images/mederic-albouy.png" alt="Médéric Albouy" class="team_img">
       <p class="team_name">Médéric Albouy</p>
-      <p class="team_function">Co-fondateur, Président</p>
+      <p class="team_function">Co-fondateur <br>Président</p>
     </li>
     <li class="team_item">
       <img src="/images/marc-antoine-robert.png" alt="Marc-Antoine Robert" class="team_img">
       <p class="team_name">Marc-Antoine Robert</p>
-      <p class="team_function">Co-fondateur, Directeur Général</p>
+      <p class="team_function">Co-fondateur <br>Directeur Général</p>
     </li>
     <li class="team_item">
       <img src="/images/xavier-rigault.jpeg" alt="Xavier Rigault" class="team_img">
