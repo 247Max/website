@@ -1,5 +1,5 @@
 {
-  "dest": "dist/icons",
+  "dest": "docs/icons",
   "mode": {
       "symbol": {
           "dest": "",

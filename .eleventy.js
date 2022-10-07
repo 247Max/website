@@ -14,14 +14,14 @@ module.exports = function(config) {
   config.addFilter("sortByOrder", sortByOrder);
 
   // Passthrough copy
-  config.addPassthroughCopy('src/fonts');
+  config.addPassthroughCopy({'src/fonts': 'fonts'});
   config.addPassthroughCopy({'src/images': 'images'});
   config.addPassthroughCopy({'src/js': 'js'});
 
   return {
     dir: {
       input: 'src/_content',
-      output: 'dist'
+      output: 'docs'
     },
     passthroughFileCopy: true
   };
