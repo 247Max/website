@@ -1,0 +1,21 @@
+/// Auto-detect external links
+/// Must be used wisely, screen-readers sometimes read it as "croissant"
+/// best thing to do : put it in a aria-hidden thingy & add "lien externe" in an sr-only span.
+a[href^="http"]:not(.no-external),
+a.is-external {
+  position:relative;
+  margin-right:2ch;
+  display:inline-block;
+
+  &::after {
+    content:"↗";
+    font-family:system-ui,-apple-system,sans-serif;
+    font-style:normal;
+    font-weight:900;
+    color: inherit;
+    padding-left:1px;
+    line-height:.75;
+    position:absolute;
+    bottom:.45rem
+  }
+}

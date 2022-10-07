@@ -1,0 +1,48 @@
+{% include "snippets/head.njk" %}
+<div class="page is-page">
+  {% include "snippets/menu.njk" %}
+    <main class="container" id="main" tabindex="-1">
+      <div class="content | mtm">
+      {% block content %}
+        {{ content | safe }}
+      {% endblock %}
+      </div>
+
+      <div class="projets">
+      {%- for projet in projets | sortByOrder %}
+        <article>
+          <a class="projets_link | aspect-ratio" style="--width: 425; --height: 592" href="{{ projet.url | url }}">
+            <img src="{{ projet.data.imageList }}" alt="{{ projet.data.title }}" loading="lazy" height="640px">
+          </a>
+        </article>
+        
+      {%- endfor %}
+      </div>
+
+      {% if pagination.pages[1] %}
+      <nav aria-label="pagination" class="pagination">
+        <ol class="pagination_list">
+          <li class="pagination_nav">
+            {% if pagination.href.previous %}
+              <a href="{{ pagination.href.previous }}">← Précédents</a>
+            {% else %}{% endif %}
+          </li>
+          {%- for pageEntry in pagination.pages %}
+            <li class="pagination_number">
+              <a href="{{ pagination.hrefs[ loop.index0 ] }}" {% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page" {% endif %}><span class="sr-only">Page</span>
+                {{ loop.index }}</a>
+            </li>
+          {%- endfor %}
+          <li class="pagination_nav">
+            {% if pagination.href.next %}
+              <a href="{{ pagination.href.next }}">Suivants →</a>
+            {% else %}{% endif %}
+          </li>
+        </ol>
+
+      </nav>
+
+      {% endif %}
+    </main>
+
+    {% include "snippets/footer.njk" %}

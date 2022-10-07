@@ -1,0 +1,51 @@
+{% include "snippets/head.njk" %}
+<div class="page">
+  {% include "snippets/menu.njk" %}
+    <main class="main" id="main" tabindex="-1">
+      <div class="projet | content container">
+        <div class="projet_content">
+          <h1 class="projet_title mbs">{{ title | safe }}</h1>
+          <p class="projet_director | uppercase">{{ director | safe }}</p>
+          <p class="projet_meta"><span class="uppercase">{{ genre | safe }}</span> &ndash; {{ length | safe }} &ndash; {{ releaseDate | safe }}</p>
+
+          <h2>Synopsis</h2>
+          <p>{{ synopsis | safe }}</p>
+
+          <div class="grid">
+            {{ content | safe }}
+          </div>
+
+          <p>{{ dimentions | safe }}</p>
+          <p class="mt0">{{ description | safe }}</p>
+        </div>
+          
+        <div class="projet_extra">
+          <img src="{{ image | safe }}" alt="{{ title | safe  }}" loading="lazy" height="600px" width="auto">
+          
+          {% if file %}
+          <a href="{{ file | safe }}" class="button button--outline mb0">
+            <svg class="icon | mrxxs" aria-hidden="true"><use xlink:href="/icons/sprite.svg#download"/></svg>
+            {{ texts.dossier | safe }}
+            <span class="is-size-xs">{{ fileSize | safe }}</span>
+          </a>
+          {% endif %}
+          {% if preview %}
+          <div class="text-align-center">
+            <h2 class="mbs">{{ texts.preview | safe }}</h2>
+          </div>
+          <div class="aspect-ratio">
+            <iframe loading="lazy" src="{{ preview | safe }}" title="Bande annonce" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="480" height="300"></iframe>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+
+      {# <div class="mtm">
+        <a href="/oeuvres/"><strong>← Revenir à la liste des oeuvres</strong></a>
+      </div> #}
+
+    </main>
+
+    
+
+    {% include "snippets/footer.njk" %}

@@ -1,0 +1,18 @@
+{ 
+  "lang": "en",
+  "texts": {
+    "credit": "247 Max © 2022 |  <a href=\"/en/legal\">legal</a> | <a href=\"/en/sitemap\">Sitemap</a> | Website developed by <a href=\"https://webtopie.fr\">Webtopie</a>",
+    "preview": "Trailer",
+    "dossier": "Press kit"
+  },
+  "menu": [
+    ["/en/", "Home"],
+    ["/en/projects/", "Projects"],
+    ["/en/about/", "About"],
+    ["/en/contact/", "Contact"]
+  ],
+  "urls": {
+    "legal": "legal",
+    "sitemap": "sitemap"
+  }
+}

@@ -1,0 +1,14 @@
+/*
+## Grid
+=====================*/
+/// @group Layout
+.columns {
+  margin-top: 1rem;
+
+  h2:first-child {margin-top: 0;}
+  @include mq('small') {
+    // display: column;
+    columns: 2;
+    padding: 0.1rem 0;
+  }
+}

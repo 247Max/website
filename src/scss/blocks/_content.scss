@@ -1,0 +1,17 @@
+.content {
+  h1 {
+    @include fluid-type(30, 67);
+    &::after {
+      display: block;
+      content: "";
+      width: 70px;
+      height: 4px;
+      background-color: var(--color-primary);
+      margin: .5rem 0;
+    }
+  }
+
+  h2 {
+    margin: 2rem 0 1rem;
+  }
+}

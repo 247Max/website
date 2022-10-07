@@ -1,0 +1,44 @@
+<header class="header | container">
+  <div class="header_inner">
+    <div class="header_upper">
+      <a class="logo" href="/">      
+        <svg class="icon" aria-hidden="true"><use xlink:href="/images/247max.svg#logo"/></svg>
+        <span class="sr-only">247Max</span>
+      </a>
+      
+      <div class="menu_item mlauto is-lang-upper">
+        <a lang="fr" hreflang="fr" class="menu_link"
+        {% if '/en/' not in page.url %} aria-current="true" href="{{ page.url }}"{% else %} href="{{ translatedUrl }}" {% endif %}>FR<span class="sr-only">, version française</span>
+        </a>
+        <span aria-hidden="true" class="menu_separator">|</span>
+        <a class="menu_link" lang="en" hreflang="en"
+        {% if '/en/' in page.url %} aria-current="true" href="{{ page.url }}"{% else %} href="{{ translatedUrl }}" {% endif %}>
+          EN<span class="sr-only">, english version</span>
+        </a>
+      </div>
+    </div>
+    <nav class="menu">
+      <ul class="menu_list">
+        {%- for element in menu %}
+          <li class="menu_item">
+            <a class="menu_link" href="{{ element[0] }}" 
+            {% if page.url == element[0] %} aria-current="page"{% endif %}
+            >{{ element[1] }}</a>
+          </li>
+        {%- endfor %}
+        <li class="menu_item mlauto is-lang-menu">
+          <a lang="fr" hreflang="fr" class="menu_link"
+          {% if '/en/' not in page.url %} aria-current="true" href="{{ page.url }}"{% else %} href="{{ translatedUrl }}" {% endif %}>FR<span class="sr-only">, version française</span>
+          </a>
+          <span aria-hidden="true" class="menu_separator">|</span>
+          <a class="menu_link" lang="en" hreflang="en"
+          {% if '/en/' in page.url %} aria-current="true" href="{{ page.url }}"{% else %} href="{{ translatedUrl }}" {% endif %}>
+            EN<span class="sr-only">, english version</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+{# TODO: Breadcrumb #}
