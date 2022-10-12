@@ -4,8 +4,8 @@ title: "Polar Park"
 metaDescription: Coming back to his mother&#39;s hometown for inspiration, a detective novel writer finds himself investigating the trail of a most artistic serial killer.
 translatedUrl: /projets/polar-park/
 order: 1
-image: /images/polar-park.png
-imageList: /images/polar-park.png
+image: /images/polar-park.jpg
+imageList: /images/polar-park.jpg
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
 # preview: https://www.youtube-nocookie.com/embed/kxM_BMg1wbU
