@@ -4,8 +4,8 @@ title: "The Anomaly"
 metaDescription: On June 25, 2021, Protocol 42 is launched by the US Army, when they get the report that an Air France Boeing 747 has landed twice, three months apart, with the same crew and the same passengers onboard.
 translatedUrl: /projets/l-anomalie/
 order: 2
-image: /images/l-anomalie-single.png
-imageList: /images/the-anomaly-ven.png
+image: /images/l-anomalie-single.jpg
+imageList: /images/the-anomaly-ven.jpg
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
 # preview: https://www.youtube-nocookie.com/embed/kxM_BMg1wbU

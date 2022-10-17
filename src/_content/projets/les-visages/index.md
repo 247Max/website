@@ -4,8 +4,8 @@ title: "Les Visages"
 metaDescription: Dans un appartement miteux abandonné de son propriétaire, Ethan Muller, un galeriste new-yorkais, découvre la plus grande œuvre d’art jamais créée.
 translatedUrl: /en/projects/the-genius/
 order: 4
-image:  /images/les-visages-vf.png
-imageList: /images/les-visages-vf.png
+image:  /images/les-visages-vf.jpg
+imageList: /images/les-visages-vf.jpg
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
 # preview: https://www.youtube-nocookie.com/embed/kxM_BMg1wbU

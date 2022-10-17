@@ -4,8 +4,8 @@ title: "The Enchanter"
 metaDescription: After the release of The Life Before Us, Romain Gary has his little cousin Paul Pavlowitch play the role of the author Émile Ajar. The press, the publishers, the readers... everyone is fooled. Well, nearly everyone.
 translatedUrl: /projets/l-enchanteur/
 order: 3
-image: /images/l-enchanteur.png
-imageList: /images/l-enchanteur.png
+image: /images/l-enchanteur.jpg
+imageList: /images/l-enchanteur.jpg
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
 # preview: https://www.youtube-nocookie.com/embed/kxM_BMg1wbU

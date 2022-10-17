@@ -22,12 +22,12 @@ producteurs associés chez 247 Films (_Persépolis_, _Simon Werner a disparu_, _
 <div class="team">
   <ul class="team_list">
     <li class="team_item">
-      <img src="/images/mederic-albouy.png" alt="Médéric Albouy" class="team_img">
+      <img src="/images/mederic-albouy.jpg" alt="Médéric Albouy" class="team_img">
       <p class="team_name">Médéric Albouy</p>
       <p class="team_function">Co-fondateur <br>Président</p>
     </li>
     <li class="team_item">
-      <img src="/images/marc-antoine-robert.png" alt="Marc-Antoine Robert" class="team_img">
+      <img src="/images/marc-antoine-robert.jpg" alt="Marc-Antoine Robert" class="team_img">
       <p class="team_name">Marc-Antoine Robert</p>
       <p class="team_function">Co-fondateur <br>Directeur Général</p>
     </li>
