@@ -4,8 +4,8 @@ title: "The Genius"
 metaDescription: In a seedy flat abandoned by its tenant, Ethan Muller, a New-York gallery owner, discovers the biggest work of art ever created.
 translatedUrl: /projets/les-visages/
 order: 4
-image: /images/the-genius-ven.png
-imageList: /images/the-genius-ven.png
+image: /images/the-genius-ven.jpg
+imageList: /images/the-genius-ven.jpg
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
 # preview: https://www.youtube-nocookie.com/embed/kxM_BMg1wbU
