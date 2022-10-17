@@ -4,7 +4,10 @@
   "texts": {
     "credit": "247 Max © 2022 |  <a href=\"/mentions-legales\">Mentions légales</a> |  <a href=\"/plan-du-site\">Plan du site</a> | Site web réalisé par <a href=\"https://webtopie.fr\">Webtopie</a>",
     "preview": "Bande annonce",
-    "dossier": "Dossier de presse"
+    "dossier": "Dossier de presse",
+    "skipToContent": "Passer au contenu",
+    "breadcrumb": "fil d'ariane",
+    "mainNav": "Navigation principale"
   },
   "menu": [
     ["/", "Accueil"],

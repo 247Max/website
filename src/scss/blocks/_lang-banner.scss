@@ -1,0 +1,21 @@
+.lang-banner {
+  font-size: 1rem;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+
+  button {
+    background-color: var(--color-primary);
+    text-decoration: none;
+    display: inline-block;
+    padding: .15rem .5rem;
+    margin-left: 1rem;
+  }
+
+  [data-lang] {
+    display: none;
+    margin: 0;
+
+    &.is-active {display: block;}
+  }
+}

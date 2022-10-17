@@ -3,7 +3,10 @@
   "texts": {
     "credit": "247 Max © 2022 |  <a href=\"/en/legal\">legal</a> | <a href=\"/en/sitemap\">Sitemap</a> | Website developed by <a href=\"https://webtopie.fr\">Webtopie</a>",
     "preview": "Trailer",
-    "dossier": "Press kit"
+    "dossier": "Press kit",
+    "skipToContent": "Skip to content",
+    "breadcrumb": "Breacrumb",
+    "mainNav": "main navigation"
   },
   "menu": [
     ["/en/", "Home"],
@@ -12,6 +15,7 @@
     ["/en/contact/", "Contact"]
   ],
   "urls": {
+    "site": "https://www.247max.fr",
     "legal": "legal",
     "sitemap": "sitemap"
   }

@@ -22,12 +22,12 @@
 /// Skip-link style
 /// @example markup - lien à insérer avant le menu
 ///   <a class="skip-link" href='#main'>Passer au contenu</a>
-///   <main class="" tabindex="-1" id="main"></main>
+///   <main  role="main" class="" tabindex="-1" id="main"></main>
 ///
 .skip-link {
 	opacity: 0;
   background: var(--color-primary);
-  color:  var(--color-background-blue);
+  color:  #fff;
 	font-weight: 700;
 	top: 0;
 	z-index: 99999;
