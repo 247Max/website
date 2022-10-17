@@ -1,5 +1,5 @@
-<header class="header | container">
-  <div class="header_inner">
+<header class="header | container" role="banner">
+  <nav class="header_inner" role="navigation" aria-label="{{ texts.mainNav }}">
     <div class="header_upper">
       <a class="logo" href="/">      
         <svg class="icon" aria-hidden="true"><use xlink:href="/images/247max.svg#logo"/></svg>
@@ -17,7 +17,7 @@
         </a>
       </div>
     </div>
-    <nav class="menu">
+    <div class="menu">
       <ul class="menu_list">
         {%- for element in menu %}
           <li class="menu_item">
@@ -37,6 +37,6 @@
           </a>
         </li>
       </ul>
-    </nav>
-  </div>
+    </div>
+  </nav>
 </header>

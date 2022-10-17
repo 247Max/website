@@ -66,5 +66,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
   <link rel="stylesheet" href="/css/styles.css?v=1.0">
+  <script src="/js/app.min.js?v=1.0" defer></script>
 </head>
 <body>
+  <a class="skip-link" href='#main'>{{ texts.skipToContent }}</a>
+  <div class="lang-banner">
+    <p class="" data-lang="fr">Il semblerait que la langue actuelle ne corresponde pas à vos réglages, souhaitez-vous <a href="{{ translatedUrl }}">consulter ce site en anglais</a>&nbsp;? <button data-lang-dismiss="">Ne plus me le demander</button></p>
+    <p class="" data-lang="en">It seems that the current language does not match your settings, would you like to <a href="{{ translatedUrl }}">visit this website in French</a>? <button data-lang-dismiss="">Don't ask again</button></p>
+  </div>

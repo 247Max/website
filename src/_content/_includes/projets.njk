@@ -1,8 +1,8 @@
 {% include "snippets/head.njk" %}
 <div class="page is-page">
   {% include "snippets/menu.njk" %}
-    <main class="main | container" id="main" tabindex="-1">
-      <nav class="breadcrumb" aria-label="Fil d'ariane">
+    <main  role="main" class="main | container" id="main" tabindex="-1">
+      <nav class="breadcrumb" aria-label="{{ texts.breadcrumb }}">
         <ol>
           <li>
             <a href="{{ menu[0][0] }}">{{ menu[0][1] }}</a>

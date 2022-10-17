@@ -64,11 +64,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
   <link rel="stylesheet" href="/css/styles.css?v=1.0">
+  <script src="/js/app.min.js?v=1.0" defer></script>
 </head>
 <body>
+  <a class="skip-link" href='#main'>Skip to content</a>
+  <div class="lang-banner">
+    <p class="" data-lang="fr">Il semblerait que la langue actuelle ne corresponde pas à vos réglages, souhaitez-vous <a href="/projets/polar-park/">consulter ce site en anglais</a>&nbsp;? <button data-lang-dismiss="">Ne plus me le demander</button></p>
+    <p class="" data-lang="en">It seems that the current language does not match your settings, would you like to <a href="/projets/polar-park/">visit this website in French</a>? <button data-lang-dismiss="">Don't ask again</button></p>
+  </div>
 <div class="page">
-  <header class="header | container">
-  <div class="header_inner">
+  <header class="header | container" role="banner">
+  <nav class="header_inner" role="navigation" aria-label="main navigation">
     <div class="header_upper">
       <a class="logo" href="/">      
         <svg class="icon" aria-hidden="true"><use xlink:href="/images/247max.svg#logo"/></svg>
@@ -86,7 +92,7 @@
         </a>
       </div>
     </div>
-    <nav class="menu">
+    <div class="menu">
       <ul class="menu_list">
           <li class="menu_item">
             <a class="menu_link" href="/en/" 
@@ -119,11 +125,11 @@
           </a>
         </li>
       </ul>
-    </nav>
-  </div>
+    </div>
+  </nav>
 </header>
-    <main class="main" id="main" tabindex="-1">
-      <nav class="breadcrumb | container pb0" aria-label="Fil d'ariane">
+    <main  role="main" class="main" id="main" tabindex="-1">
+      <nav class="breadcrumb | container pb0" aria-label="Breacrumb">
         <ol>
           <li>
             <!-- Link when it's a page & not the last item -->
@@ -198,7 +204,7 @@
     
 
         
-      <footer class="footer | container">
+      <footer class="footer | container" role="contentinfo">
         <p class="footer_mentions">247 Max © 2022 |  <a href="/en/legal">legal</a> | <a href="/en/sitemap">Sitemap</a> | Website developed by <a href="https://webtopie.fr">Webtopie</a></p>
       </footer>
   </div> <!-- /page -->
