@@ -32,17 +32,17 @@ producteurs associés chez 247 Films (_Persépolis_, _Simon Werner a disparu_, _
       <p class="team_function">Co-fondateur <br>Directeur Général</p>
     </li>
     <li class="team_item">
-      <img src="/images/xavier-rigault.jpeg" alt="Xavier Rigault" class="team_img">
+      <img src="/images/xavier-rigault.jpg" alt="Xavier Rigault" class="team_img">
       <p class="team_name">Xavier Rigault</p>
       <p class="team_function">Co-fondateur</p>
     </li>
     <li class="team_item">
-      <img src="/images/clarence-benoist.jpeg" alt="Clarence Benoist" class="team_img">
+      <img src="/images/clarence-benoist.jpg" alt="Clarence Benoist" class="team_img">
       <p class="team_name">Clarence Benoist</p>
       <p class="team_function">Chargée de développement</p>
     </li>
     <li class="team_item">
-      <img src="/images/laurence-meoc.jpeg" alt="Laurence Méoc" class="team_img">
+      <img src="/images/laurence-meoc.jpg" alt="Laurence Méoc" class="team_img">
       <p class="team_name">Laurence Méoc</p>
       <p class="team_function">Chargée des productions</p>
     </li>
