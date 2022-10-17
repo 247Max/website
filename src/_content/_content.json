@@ -13,6 +13,7 @@
     ["/contact/", "Contact"]
   ],
   "urls": {
+    "site": "https://www.247max.fr",
     "legal": "Mentions légales",
     "sitemap": "Plan du site"
   }

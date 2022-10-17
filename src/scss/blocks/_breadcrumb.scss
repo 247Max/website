@@ -1,0 +1,16 @@
+
+.breadcrumb {
+  color:var(--color-text-lighter);
+  font-size:.875rem;
+  margin:0;
+
+  ol {
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    display:flex;
+    flex-wrap:wrap;
+  }
+
+  a {color:var(--color-text-light)}
+}

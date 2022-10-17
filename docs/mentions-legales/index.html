@@ -123,9 +123,20 @@
   </div>
 </header>
 
-
-
     <main class="main | container--s content" id="main" tabindex="-1">
+      <nav class="breadcrumb | pb0" aria-label="Fil d'ariane">
+        <ol>
+          <li>
+            <!-- Link when it's a page & not the last item -->
+            <a href="/">Accueil</a>
+            <!-- This everywhere except on last item -->
+            <span aria-hidden="true">&nbsp; › &nbsp;</span> 
+          </li>
+          <li>
+            <span aria-current="page">Mentions légales</span>
+          </li>
+        </ol>
+      </nav>
       
           <h1>Mentions légales</h1>
 <h2>À propos</h2>
@@ -135,7 +146,7 @@
 <p>Sous le N° de Siret : 832 325 237 00010</p>
 <p>N° RCS : Paris B 832 325 237</p>
 <p>N° TVA : FR74832325237</p>
-<p>Editeur et Responsable des données personnelles :</p>
+<p>Editeur et Responsable des données personnelles : M. Médéric ALBOUY</p>
 <p>email : <a href="mailto:dev@247max.fr">dev@247max.fr</a></p>
 <p>Site web : <a href="/">www.247max.fr</a></p>
 <p><strong>Ce site web ne collecte aucune donnée personnelle.</strong></p>

@@ -4,34 +4,34 @@ metaDescription: 247MAX legal informations
 translatedUrl: /mentions-legales/
 ---
 
-# Mentions légales
+# Legal statement
 
-## À propos
+## About
 
 2.4.7 MAX
 
-Société par actions simplifiée
+simplified joint-stock company under French law
 
-Dont le siège social est situé au 36 RUE ETIENNE MARCEL 75002 PARIS
+head office is located at 36 RUE ETIENNE MARCEL 75002 PARIS
 
-Sous le N° de Siret : 832 325 237 00010
+Siret : 832 325 237 00010
 
-N° RCS : Paris B 832 325 237
+RCS : Paris B 832 325 237
 
-N° TVA : FR74832325237
+TVA : FR74832325237
 
-Editeur et Responsable des données personnelles : 
+Editor and Data Protection Officer : M. Médéric ALBOUY
 
 email&nbsp;: [dev@247max.fr](mailto:dev@247max.fr)
 
-Site web&nbsp;: [www.247max.fr](/)
+Website&nbsp;: [www.247max.fr](/en/)
 
-**Ce site web ne collecte aucune donnée personnelle.**
+**This website does not collect any personal data.**
 
 ## Développement web et maintenance
 
-Maintenance et développement éco-responsable par [Webtopie](https://webtopie.fr)
+Maintenance and sustainable web development by [Webtopie](https://webtopie.fr)
 
-## Hébergement
+## Web hosting
 
 GitHub Pages

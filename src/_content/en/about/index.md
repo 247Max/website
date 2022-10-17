@@ -14,7 +14,7 @@ feature-film Oscar-nominated producers Xavier Rigault and Marc-Antoine Robert of
 
 <div class="text-align-center">
 
-## L’équipe
+## The team
 
 </div>
 

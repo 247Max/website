@@ -20,7 +20,7 @@ N° RCS : Paris B 832 325 237
 
 N° TVA : FR74832325237
 
-Editeur et Responsable des données personnelles : 
+Editeur et Responsable des données personnelles : M. Médéric ALBOUY
 
 email&nbsp;: [dev@247max.fr](mailto:dev@247max.fr)
 

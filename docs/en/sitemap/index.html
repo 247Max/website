@@ -123,11 +123,36 @@
   </div>
 </header>
 
-
-
     <main class="main | container--s content" id="main" tabindex="-1">
+      <nav class="breadcrumb | pb0" aria-label="Fil d'ariane">
+        <ol>
+          <li>
+            <!-- Link when it's a page & not the last item -->
+            <a href="/en/">Home</a>
+            <!-- This everywhere except on last item -->
+            <span aria-hidden="true">&nbsp; › &nbsp;</span> 
+          </li>
+          <li>
+            <span aria-current="page">Sitemap</span>
+          </li>
+        </ol>
+      </nav>
       
           <h1>Sitemap</h1>
+<ul>
+<li><a href="/en">Home</a></li>
+<li><a href="/en/projects">Projects</a>
+<ul>
+<li><a href="/en/projects/polar-park">Polar Park</a></li>
+<li><a href="/en/projects/the-anomaly">The Anomaly</a></li>
+<li><a href="/en/projects/the-enchanter">The Enchanter</a></li>
+<li><a href="/en/projects/the-genius">The Genius</a></li>
+</ul>
+</li>
+<li><a href="/en/about">About</a></li>
+<li><a href="/en/contact">Contact</a></li>
+<li><a href="/en/legal">Legal</a></li>
+</ul>
 
         
     </main>

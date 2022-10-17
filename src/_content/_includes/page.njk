@@ -3,6 +3,19 @@
     {% include "snippets/menu.njk" %}
 
     <main class="main | container--s content" id="main" tabindex="-1">
+      <nav class="breadcrumb | pb0" aria-label="Fil d'ariane">
+        <ol>
+          <li>
+            <!-- Link when it's a page & not the last item -->
+            <a href="{{ menu[0][0] }}">{{ menu[0][1] }}</a>
+            <!-- This everywhere except on last item -->
+            <span aria-hidden="true">&nbsp; › &nbsp;</span> 
+          </li>
+          <li>
+            <span aria-current="page">{{ title }}</span>
+          </li>
+        </ol>
+      </nav>
       {% block content %}
           {{ content | safe }}
         {% endblock %}
