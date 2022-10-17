@@ -1,8 +1,19 @@
 {% include "snippets/head.njk" %}
 <div class="page is-page">
   {% include "snippets/menu.njk" %}
-    <main class="container" id="main" tabindex="-1">
-      <div class="content | mtm">
+    <main class="main | container" id="main" tabindex="-1">
+      <nav class="breadcrumb" aria-label="Fil d'ariane">
+        <ol>
+          <li>
+            <a href="{{ menu[0][0] }}">{{ menu[0][1] }}</a>
+            <span aria-hidden="true">&nbsp; › &nbsp;</span> 
+          </li>
+          <li>
+            <span aria-current="page">{{ title }}</span>
+          </li>
+        </ol>
+      </nav>
+      <div class="content">
       {% block content %}
         {{ content | safe }}
       {% endblock %}

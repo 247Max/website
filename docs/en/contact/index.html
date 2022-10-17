@@ -123,9 +123,20 @@
   </div>
 </header>
 
-
-
     <main class="main | container--s content" id="main" tabindex="-1">
+      <nav class="breadcrumb | pb0" aria-label="Fil d'ariane">
+        <ol>
+          <li>
+            <!-- Link when it's a page & not the last item -->
+            <a href="/en/">Home</a>
+            <!-- This everywhere except on last item -->
+            <span aria-hidden="true">&nbsp; › &nbsp;</span> 
+          </li>
+          <li>
+            <span aria-current="page">Contact</span>
+          </li>
+        </ol>
+      </nav>
       
           <h1>Contact</h1>
 <div class="grid" style="--grid-columns: 3;">

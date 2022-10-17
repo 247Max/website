@@ -122,9 +122,26 @@
     </nav>
   </div>
 </header>
-
-
     <main class="main" id="main" tabindex="-1">
+      <nav class="breadcrumb | container pb0" aria-label="Fil d'ariane">
+        <ol>
+          <li>
+            <!-- Link when it's a page & not the last item -->
+            <a href="/">Accueil</a>
+            <!-- This everywhere except on last item -->
+            <span aria-hidden="true">&nbsp; › &nbsp;</span> 
+          </li>
+          <li>
+            <!-- Link when it's a page & not the last item -->
+            <a href="/projets/">Projets</a>
+            <!-- This everywhere except on last item -->
+            <span aria-hidden="true">&nbsp; › &nbsp;</span> 
+          </li>
+          <li>
+            <span aria-current="page">L’Enchanteur</span>
+          </li>
+        </ol>
+      </nav>
       <div class="projet | content container">
         <div class="projet_content">
           <h1 class="projet_title mbs">L’Enchanteur</h1>
