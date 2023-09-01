@@ -26,6 +26,9 @@
           <h1 class="projet_title mbs">{{ title | safe }}</h1>
           <p class="projet_director | uppercase">{{ director | safe }}</p>
           <p class="projet_meta"><span class="uppercase">{{ genre | safe }}</span> &ndash; {{ length | safe }} &ndash; {{ releaseDate | safe }}</p>
+          {% if imagePrize %}
+            <img src="{{ imagePrize | safe }}" alt="{{ prizeTitle | safe  }}" loading="lazy" height="auto" width="100">
+          {% endif %}
 
           <h2>Synopsis</h2>
           <p>{{ synopsis | safe }}</p>
