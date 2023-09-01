@@ -4,8 +4,8 @@ title: "The Storyteller"
 metaDescription: After the release of The Life Before Us, Romain Gary has his little cousin Paul Pavlowitch play the role of the author Émile Ajar. The press, the publishers, the readers... everyone is fooled. Well, nearly everyone.
 translatedUrl: /projets/l-enchanteur/
 order: 3
-image: /images/l-enchanteur.jpg
-imageList: /images/l-enchanteur.jpg
+image: /images/l-enchanteur.jpg?v=2
+imageList: /images/l-enchanteur.jpg?v=2
 imagePrize: /images/FFTV2023_selection-officielle_noir.jpg
 prizeTitle: "Festival de la fiction, sélection officielle 2023"
 # file: /dossiers/polar-park.pdf
