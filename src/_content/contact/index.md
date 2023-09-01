@@ -14,14 +14,10 @@ translatedUrl: /en/contact/
 
 [dev@247max.fr](mailto:dev@247max.fr)
 
-<p class="heading">Téléphone</p>
-
-[+33 1 42 71 01 31](tel:+33142710131)
-
 <p class="heading">Adresse</p>
 
-36 rue Etienne Marcel,<br>
-75002 Paris
+53 rue du Faubourg Poissonnière,<br>
+75010 Paris
 
 </div>
 

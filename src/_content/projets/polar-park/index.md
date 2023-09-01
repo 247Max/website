@@ -12,7 +12,7 @@ imageList:  /images/polar-park.jpg
 director: Gérald Hustache-Mathieu
 genre: Série policière burlesque, français, renouvelable
 length: 6x52min
-releaseDate: Sortie 2023
+releaseDate: Diffusion Automne 2023 <br><strong>Compétition officielle Séries Mania 2023</strong>
 released: false
 synopsis: "Venu chercher l’inspiration dans le village natal de sa mère, un auteur de romans policiers se retrouve à enquêter sur les traces d’un serial-killer des plus artistiques."
 layout: projet.njk

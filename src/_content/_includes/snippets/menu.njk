@@ -1,7 +1,7 @@
 <header class="header | container" role="banner">
   <nav class="header_inner" role="navigation" aria-label="{{ texts.mainNav }}">
     <div class="header_upper">
-      <a class="logo" href="/">      
+      <a class="logo" href="/{% if '/en/' in page.url %}en{% endif %}">      
         <svg class="icon" aria-hidden="true"><use xlink:href="/images/247max.svg#logo"/></svg>
         <span class="sr-only">247Max</span>
       </a>

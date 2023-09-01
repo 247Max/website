@@ -12,7 +12,7 @@ imageList: /images/polar-park.jpg
 director: Gérald Hustache-Mathieu
 genre: Thriller comedy, French language, returnable
 length: 6x52min
-releaseDate: Release 2023
+releaseDate: Release Fall 2023 <br><strong>Nominated at Séries Mania 2023</strong>
 released: false
 synopsis: "Coming back to his mother&#39;s hometown for inspiration, a detective novel writer finds himself investigating the trail of a most artistic serial killer.
 Starring French movie star Jean-Paul Rouve (&gt;100M tickets in career), <em>Polar Park</em> is a thrilling, offbeat, cleverly crafted serial-killer series that mixes like no other noir elements with comic touches.​"

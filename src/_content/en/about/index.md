@@ -8,7 +8,7 @@ translatedUrl: /a-propos/
 
 247 MAX is an independent company dedicated to TV series and TV movies. It was created in
 2019 by former head of drama copros at France Télévisions Médéric Albouy, together with two
-feature-film Oscar-nominated producers Xavier Rigault and Marc-Antoine Robert of sister company 247 Films (_Persepolis_, _Lights Out_, _Delicacy_, _Armed Hands_, _Night Watchman_, _The History of Love_, _K.O_, _The Brigade_...).  
+feature-film Oscar-nominated producers Xavier Rigault and Marc-Antoine Robert of sister company 247 Films.  
 
 <hr role="presentation">
 
@@ -47,7 +47,7 @@ feature-film Oscar-nominated producers Xavier Rigault and Marc-Antoine Robert of
     </li>
     <li class="team_item">
       <img src="/images/team-woman.svg" alt="" class="team_img">
-      <p class="team_name">Hélène Relier</p>
+      <p class="team_name">Juliet Ames</p>
       <p class="team_function">Production assistant</p>
     </li>
   </ul>

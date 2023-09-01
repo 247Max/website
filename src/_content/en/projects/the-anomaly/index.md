@@ -35,6 +35,8 @@ Adapted from the literary phenomenon by Hervé Le Tellier, _The Anomaly_ (Galli
 ## Screenplay
 
 Adapted for television by Antonin Baudry and Hervé Le Tellier
+
+Jeremy Boxen
  
 ## Director
 
