@@ -26,7 +26,7 @@ tags:
 
 Mathilde Belin
 
-Adapted from Audrey Faulot’s novel (Gallimard Jeunesse Editions)
+Adapté du roman d’Audrey Faulot (Gallimard Jeunesse Editions)
 ​
 ## Scénario
 
