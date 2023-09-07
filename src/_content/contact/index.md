@@ -14,6 +14,10 @@ translatedUrl: /en/contact/
 
 [dev@247max.fr](mailto:dev@247max.fr)
 
+<p class="heading">Téléphone</p>
+
+[+33 9 54 50 92 83](tel:+33954509283)
+
 <p class="heading">Adresse</p>
 
 53 rue du Faubourg Poissonnière,<br>
