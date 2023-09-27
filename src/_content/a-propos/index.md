@@ -11,7 +11,7 @@ télévision. Elle a été créée en 2019 par Médéric Albouy, anciennement re
 coproductions fictions chez France Télévisions, avec Xavier Rigault et Marc-Antoine Robert,
 producteurs associés chez 247 Films. 
 
-<hr role="presentation">
+<!-- <hr role="presentation">
 
 <div class="text-align-center">
 
@@ -52,4 +52,4 @@ producteurs associés chez 247 Films. 
       <p class="team_function">Assistante de production</p>
     </li>
   </ul>
-</div>
+</div> -->

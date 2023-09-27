@@ -10,7 +10,7 @@ translatedUrl: /a-propos/
 2019 by former head of drama copros at France Télévisions Médéric Albouy, together with two
 feature-film Oscar-nominated producers Xavier Rigault and Marc-Antoine Robert of sister company 247 Films.  
 
-<hr role="presentation">
+<!-- <hr role="presentation">
 
 <div class="text-align-center">
 
@@ -51,4 +51,4 @@ feature-film Oscar-nominated producers Xavier Rigault and Marc-Antoine Robert of
       <p class="team_function">Production assistant</p>
     </li>
   </ul>
-</div>
+</div> -->

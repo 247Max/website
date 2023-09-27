@@ -12,6 +12,7 @@ translatedUrl: /en/sitemap/
   - [L'Anomalie](/projets/l-anomalie)
   - [L'Enchanteur](/projets/l-enchanteur)
   - [Les Visages](/projets/les-visages)
+  - [La Clé des Champs](/projets/la-cle-des-champs/)
 - [À propos](/a-propos)
 - [Contact](/contact)
 - [Mentions légales](/mentions-legales)

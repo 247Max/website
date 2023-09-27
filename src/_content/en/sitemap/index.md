@@ -13,6 +13,7 @@ translatedUrl: /plan-du-site/
   - [The Anomaly](/en/projects/the-anomaly)
   - [The Enchanter](/en/projects/the-enchanter)
   - [The Genius](/en/projects/the-genius)
+  - [The Golden Key](/en/projects/the-golden-key/)
 - [About](/en/about)
 - [Contact](/en/contact)
 - [Legal](/en/legal)

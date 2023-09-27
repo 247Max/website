@@ -22,16 +22,6 @@
         </url>
     
         <url>
-            <loc>https://www.247max.fr/a-propos/</loc>
-            <lastmod>2022-10-03T08:33:25.733Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://www.247max.fr/en/about/</loc>
-            <lastmod>2022-10-03T12:27:08.415Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://www.247max.fr/en/legal/</loc>
             <lastmod>2022-10-03T12:27:08.435Z</lastmod>
         </url>
@@ -109,6 +99,16 @@
         <url>
             <loc>https://www.247max.fr/projets/la-cle-des-champs/</loc>
             <lastmod>2023-09-01T09:14:11.004Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://www.247max.fr/en/about/</loc>
+            <lastmod>2023-09-27T13:27:34.397Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://www.247max.fr/a-propos/</loc>
+            <lastmod>2023-09-27T13:27:52.229Z</lastmod>
         </url>
     
 </urlset>
