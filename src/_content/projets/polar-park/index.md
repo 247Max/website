@@ -4,8 +4,8 @@ title: "Polar Park"
 metaDescription: Venu chercher l’inspiration dans le village natal de sa mère, un auteur de romans policiers se retrouve à enquêter sur les traces d’un serial-killer des plus artistiques.
 translatedUrl: /en/projects/polar-park/
 order: 1
-image:  /images/polar-park.jpg
-imageList:  /images/polar-park.jpg
+image:  /images/polar-park-2.jpg
+imageList:  /images/polar-park-2.jpg
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
 # preview: https://www.youtube-nocookie.com/embed/kxM_BMg1wbU
