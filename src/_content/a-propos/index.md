@@ -6,7 +6,7 @@ translatedUrl: /en/about/
 
 # À propos
 
-## 247MAX devient Scénario42
+## 247MAX devient Scenario42
 
 Scenario42 (ex-247 MAX) est une société de production indépendante dédiée aux séries et aux films pour la télévision. Elle a été initialement créée en 2019 par Médéric Albouy, anciennement responsable des coproductions fictions chez France Télévisions, avec Xavier Rigault et Marc-Antoine Robert, producteurs associés chez 247 Films.
 
