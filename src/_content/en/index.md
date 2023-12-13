@@ -1,7 +1,7 @@
 ---
-title: 247 MAX | Audiovisual Production Company
+title: Scenario42 (ex-247Max) | Audiovisual Production Company
 subtitle: Audiovisual Production Company
-metaDescription: 247 MAX | Audiovisual Production Company
+metaDescription: Scenario42 (ex-247Max) | Audiovisual Production Company
 translatedUrl: /
 pagination:
   data: collections.projet

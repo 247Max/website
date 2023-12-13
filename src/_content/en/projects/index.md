@@ -1,6 +1,6 @@
 ---
 title: Projects
-metaDescription: Discover the projects developed by 247Max
+metaDescription: Discover the projects developed by Scenario42 (ex-247Max)
 translatedUrl: /projets/
 pagination:
   data: collections.project
