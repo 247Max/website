@@ -12,7 +12,7 @@ translatedUrl: /en/contact/
 
 <p class="heading mt0">Email</p>
 
-[dev@247max.fr](mailto:dev@247max.fr)
+[contact@scenario42.fr](mailto:contact@scenario42.fr)
 
 <p class="heading">Téléphone</p>
 
