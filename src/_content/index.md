@@ -1,7 +1,7 @@
 ---
-title: 247 MAX | société de production audiovisuelle indépendante
+title: Scenario42 (ex-247Max) | société de production audiovisuelle indépendante
 subtitle: Société de production audiovisuelle
-metaDescription: 247 MAX | société de production audiovisuelle indépendante
+metaDescription: Scenario42 (ex-247Max) | société de production audiovisuelle indépendante
 translatedUrl: /en/
 pagination:
   data: collections.projet

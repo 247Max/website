@@ -1,1 +1,1 @@
-# The website of 247Max
+# The website of Scenario42 (ex-247Max)

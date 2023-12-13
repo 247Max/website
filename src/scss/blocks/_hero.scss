@@ -9,7 +9,7 @@
   &_logo {
     // @include fluid-type(200, 425);
     
-    @include fluid-type(25, 70);
+    @include fluid-type(25, 40);
     text-align: center;
     font-weight: bold;
     transform: translateY(-.75rem); // optical compensation
@@ -31,7 +31,7 @@
   &_description {
     line-height: 1.1;
     font-weight: 900;
-    @include fluid-type(40, 120);
+    @include fluid-type(40, 100);
 
     text-align: center;
 

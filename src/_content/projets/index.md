@@ -1,6 +1,6 @@
 ---
 title: Projets
-metaDescription: Découvrez les projets développés par 247Max
+metaDescription: Découvrez les projets développés par Scenario42 (ex-247Max)
 translatedUrl: /en/projects/
 pagination:
   data: collections.projet
