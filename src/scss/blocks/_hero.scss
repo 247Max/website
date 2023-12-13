@@ -7,7 +7,11 @@
   align-items: center;
 
   &_logo {
-    @include fluid-type(200, 425);
+    // @include fluid-type(200, 425);
+    
+    @include fluid-type(25, 70);
+    text-align: center;
+    font-weight: bold;
     transform: translateY(-.75rem); // optical compensation
     margin: 0 auto;
 

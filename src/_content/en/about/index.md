@@ -6,9 +6,11 @@ translatedUrl: /a-propos/
 
 # About
 
-247 MAX is an independent company dedicated to TV series and TV movies. It was created in
-2019 by former head of drama copros at France Télévisions Médéric Albouy, together with two
-feature-film Oscar-nominated producers Xavier Rigault and Marc-Antoine Robert of sister company 247 Films.  
+## 247MAX becomes Scenario42
+
+Scenario42 (ex-247 MAX) is an independent company dedicated to TV series and TV movies. It was initially created in 2019 by former head of drama copros at France Télévisions Médéric Albouy, together with two feature-film Oscar-nominated producers Xavier Rigault and Marc-Antoine Robert of sister company 247 Films.
+
+Since November 2023, Scenario42 has gone into a strategic partnership with Skybound Entertainment (*The Walking Dead, Invincible*).
 
 <!-- <hr role="presentation">
 

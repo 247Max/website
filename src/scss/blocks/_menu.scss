@@ -26,20 +26,36 @@
 }
 
 .logo {
-  font-size: 50px;
+  font-size: 40px;
   margin: 0 2rem 0 0;
   color: inherit;
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   height: 1em;
+  width: auto;
+
+  img {
+    max-height: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+    // width: auto;
+
+    &.is-black {
+      display: none;
+    }
+  }
 
   .icon {
     vertical-align: top;
   }
 
   @include mq(small) {
-    font-size: 80px;
+    font-size: 50px;
   }
 }
+
+.is-home .logo .is-white {display: none;}
+.is-home .logo .is-black {display: block;}
 
 .is-lang-upper {display: block;}
 .is-lang-menu {display: none;}
