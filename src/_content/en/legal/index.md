@@ -22,9 +22,9 @@ TVA : FR74832325237
 
 Editor and Data Protection Officer : M. Médéric ALBOUY
 
-email&nbsp;: [contact@scenario42.fr](mailto:contact@scenario42.fr)
+email&nbsp;: [clarence@scenario42.fr](mailto:clarence@scenario42.fr)
 
-Website&nbsp;: [www.247max.fr](/en/)
+Website&nbsp;: [www.scenario42.fr](/en/)
 
 **This website does not collect any personal data.**
 
