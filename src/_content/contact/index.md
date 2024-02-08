@@ -12,7 +12,7 @@ translatedUrl: /en/contact/
 
 <p class="heading mt0">Email</p>
 
-[contact@scenario42.fr](mailto:contact@scenario42.fr)
+[clarence@scenario42.fr](mailto:clarence@scenario42.fr)
 
 <p class="heading">Téléphone</p>
 
@@ -21,7 +21,7 @@ translatedUrl: /en/contact/
 <p class="heading">Adresse</p>
 
 53 rue du Faubourg Poissonnière,<br>
-75010 Paris
+75009 Paris
 
 </div>
 

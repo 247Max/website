@@ -22,9 +22,9 @@ N° TVA : FR74832325237
 
 Editeur et Responsable des données personnelles : M. Médéric ALBOUY
 
-email&nbsp;: [contact@scenario42.fr](mailto:contact@scenario42.fr)
+email&nbsp;: [clarence@scenario42.fr](mailto:clarence@scenario42.fr)
 
-Site web&nbsp;: [www.247max.fr](/)
+Site web&nbsp;: [www.scenario42.fr](/)
 
 **Ce site web ne collecte aucune donnée personnelle.**
 

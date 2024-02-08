@@ -1,3 +1,3 @@
 User-agent: * 
 Allow: / 
-Sitemap: https://www.247max.fr/sitemap.xml
+Sitemap: https://www.scenario42.fr/sitemap.xml
