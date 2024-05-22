@@ -22,7 +22,7 @@ N° TVA : FR74832325237
 
 Editeur et Responsable des données personnelles : M. Médéric ALBOUY
 
-email&nbsp;: [clarence@scenario42.fr](mailto:clarence@scenario42.fr)
+email&nbsp;: [dev@scenario42.fr](mailto:dev@scenario42.fr)
 
 Site web&nbsp;: [www.scenario42.fr](/)
 
