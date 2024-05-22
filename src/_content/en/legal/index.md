@@ -22,7 +22,7 @@ TVA : FR74832325237
 
 Editor and Data Protection Officer : M. Médéric ALBOUY
 
-email&nbsp;: [clarence@scenario42.fr](mailto:clarence@scenario42.fr)
+email&nbsp;: [dev@scenario42.fr](mailto:dev@scenario42.fr)
 
 Website&nbsp;: [www.scenario42.fr](/en/)
 
