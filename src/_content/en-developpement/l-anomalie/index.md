@@ -34,11 +34,6 @@ Adapté du phénomène littéraire d’Hervé Le Tellier, _L’Anomalie_ (Editio
 ## Scénario
 Adapté pour la télévision par Antonin Baudry et Hervé Le Tellier
 
-Jeremy Boxen
-
-## Réalisation
-Antonin Baudry
-
 </div>
 
 
