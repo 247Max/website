@@ -5,8 +5,8 @@ metaDescription: Un Boeing 747 d’Air France a atterri deux fois à trois mois 
 translatedUrl: /en/in-development/the-anomaly/
 order: 2
 menuID: 2
-image:  /images/l-anomalie-single.jpg
-imageList:  /images/l-anomalie-vf.jpg
+image:  /images/covers/detail-anomaly-FR-EN.jpg
+imageList:  /images/covers/list-anomaly-FR-EN.jpg
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
 # preview: https://www.youtube-nocookie.com/embed/kxM_BMg1wbU

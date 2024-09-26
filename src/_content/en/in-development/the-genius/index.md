@@ -5,8 +5,8 @@ metaDescription: In a seedy flat abandoned by its tenant, Ethan Muller, a New-Yo
 translatedUrl: /en-developpement/les-visages/
 order: 4
 menuID: 2
-image: /images/the-genius-ven.jpg
-imageList: /images/the-genius-ven.jpg
+image:  /images/covers/detail-genius-EN.jpg
+imageList: /images/covers/list-genius-FR-EN.jpg
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
 # preview: https://www.youtube-nocookie.com/embed/kxM_BMg1wbU

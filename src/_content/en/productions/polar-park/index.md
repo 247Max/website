@@ -5,8 +5,8 @@ metaDescription: Coming back to his mother&#39;s hometown for inspiration, a det
 translatedUrl: /productions/polar-park/
 order: 1
 menuID: 1
-image: /images/polar-park-2.jpg
-imageList: /images/polar-park-2.jpg
+image:  /images/covers/detail-polar-park-FR-EN.jpg
+imageList:  /images/covers/list-polar-park-FR-EN.jpg
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
 # preview: https://www.youtube-nocookie.com/embed/kxM_BMg1wbU

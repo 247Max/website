@@ -5,8 +5,8 @@ metaDescription: After the release of The Life Before Us, Romain Gary has his li
 translatedUrl: /productions/l-enchanteur/
 order: 3
 menuID: 1
-image: /images/l-enchanteur.jpg?v=2
-imageList: /images/l-enchanteur.jpg?v=2
+image:  /images/covers/detail-enchanter-FR-EN.jpg
+imageList: /images/covers/list-enchanter-FR-EN.jpg
 imagePrize: /images/FFTV2023_selection-officielle_noir.png
 prizeTitle: "Festival de la fiction, sélection officielle 2023"
 # file: /dossiers/polar-park.pdf

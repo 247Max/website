@@ -5,8 +5,8 @@ metaDescription: Dans un appartement miteux abandonné de son propriétaire, Eth
 translatedUrl: /en/in-development/the-genius/
 order: 4
 menuID: 2
-image:  /images/les-visages-vf.jpg
-imageList: /images/les-visages-vf.jpg
+image:  /images/covers/detail-visages-FR.jpg
+imageList: /images/covers/list-genius-FR-EN.jpg
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
 # preview: https://www.youtube-nocookie.com/embed/kxM_BMg1wbU

@@ -5,8 +5,8 @@ metaDescription: On June 25, 2021, Protocol 42 is launched by the US Army, when 
 translatedUrl: /en-developpement/l-anomalie/
 order: 2
 menuID: 2
-image: /images/l-anomalie-single.jpg
-imageList: /images/the-anomaly-ven.jpg
+image:  /images/covers/detail-anomaly-FR-EN.jpg
+imageList:  /images/covers/list-anomaly-FR-EN.jpg
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
 # preview: https://www.youtube-nocookie.com/embed/kxM_BMg1wbU
