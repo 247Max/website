@@ -15,6 +15,7 @@ translatedUrl: /en/sitemap/
   - [Les Visages](/en-developpement/les-visages)
   - [La Voix d’Homme](/en-developpement/la-voix-homme)
   - [Le Nom sur le Mur](/en-developpement/nom-sur-mur)
+  - [Les Héritiers](/en-developpement/les-heritiers)
 - [À propos](/a-propos)
 - [Contact](/contact)
 - [Mentions légales](/mentions-legales)

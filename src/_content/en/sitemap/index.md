@@ -16,6 +16,7 @@ translatedUrl: /plan-du-site/
   - [The Genius](/en/in-development/the-genius)
   - [The Man’s Voice](/en/in-development/man-voice)
   - [The Name On The Wall](/en/in-development/name-wall)
+  - [The Inheritors](/en/in-development/the-inheritors)
 - [About](/en/about)
 - [Contact](/en/contact)
 - [Legal](/en/legal)
