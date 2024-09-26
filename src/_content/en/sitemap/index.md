@@ -15,6 +15,7 @@ translatedUrl: /plan-du-site/
   - [The Anomaly](/en/in-development/the-anomaly)
   - [The Genius](/en/in-development/the-genius)
   - [The Man’s Voice](/en/in-development/man-voice)
+  - [The Name On The Wall](/en/in-development/name-wall)
 - [About](/en/about)
 - [Contact](/en/contact)
 - [Legal](/en/legal)
