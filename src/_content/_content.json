@@ -11,7 +11,8 @@
   },
   "menu": [
     ["/", "Accueil"],
-    ["/projets/", "Projets"],
+    ["/productions/", "Productions"],
+    ["/en-developpement/", "En développement"],
     ["/a-propos/", "À propos"],
     ["/contact/", "Contact"]
   ],

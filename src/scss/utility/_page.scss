@@ -16,7 +16,7 @@
 
 .is-home {
   background-color: #000;
-  background-image: url('../images/background.jpg');
+  background-image: linear-gradient(to bottom, rgba(#000C0D,.40), rgba(#000C0D,.40)),url('../images/background.jpg'); // 
   color: #fff;
   background-size: cover;
   background-position: center;
