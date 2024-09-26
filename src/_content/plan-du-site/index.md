@@ -13,6 +13,7 @@ translatedUrl: /en/sitemap/
 - [En développement](/en-developpement)
   - [L'Anomalie](/en-developpement/l-anomalie)
   - [Les Visages](/en-developpement/les-visages)
+  - [La Voix d’Homme](/en-developpement/la-voix-homme)
 - [À propos](/a-propos)
 - [Contact](/contact)
 - [Mentions légales](/mentions-legales)
