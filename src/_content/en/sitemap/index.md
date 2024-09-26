@@ -8,12 +8,12 @@ translatedUrl: /plan-du-site/
 
 
 - [Home](/en)
-- [Projects](/en/projects)
-  - [Polar Park](/en/projects/polar-park)
-  - [The Anomaly](/en/projects/the-anomaly)
-  - [The Enchanter](/en/projects/the-enchanter)
-  - [The Genius](/en/projects/the-genius)
-  - [The Golden Key](/en/projects/the-golden-key/)
+- [Productions](/en/productions)
+  - [Polar Park](/en/productions/polar-park)
+  - [The Enchanter](/en/productions/the-enchanter)
+- [In development](/en/in-development)
+  - [The Anomaly](/en/in-development/the-anomaly)
+  - [The Genius](/en/in-development/the-genius)
 - [About](/en/about)
 - [Contact](/en/contact)
 - [Legal](/en/legal)

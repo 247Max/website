@@ -10,7 +10,8 @@
   },
   "menu": [
     ["/en/", "Home"],
-    ["/en/projects/", "Projects"],
+    ["/en/productions/", "Productions"],
+    ["/en/in-development/", "In development"],
     ["/en/about/", "About"],
     ["/en/contact/", "Contact"]
   ],

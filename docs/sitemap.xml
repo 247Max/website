@@ -2,22 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>https://www.scenario42.fr/</loc>
-            <lastmod>2022-10-03T08:33:25.120Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://www.scenario42.fr/mentions-legales/</loc>
             <lastmod>2022-10-03T08:33:25.169Z</lastmod>
         </url>
     
         <url>
-            <loc>https://www.scenario42.fr/projets/</loc>
+            <loc>https://www.scenario42.fr/productions/</loc>
             <lastmod>2022-10-03T08:33:25.187Z</lastmod>
         </url>
     
         <url>
-            <loc>https://www.scenario42.fr/projets/polar-park/</loc>
+            <loc>https://www.scenario42.fr/productions/polar-park/</loc>
             <lastmod>2022-10-03T08:33:25.212Z</lastmod>
         </url>
     
@@ -27,18 +22,8 @@
         </url>
     
         <url>
-            <loc>https://www.scenario42.fr/en/projects/</loc>
+            <loc>https://www.scenario42.fr/en/in-development/</loc>
             <lastmod>2022-10-03T12:27:08.456Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://www.scenario42.fr/en/projects/polar-park/</loc>
-            <lastmod>2022-10-03T12:27:08.480Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://www.scenario42.fr/en/</loc>
-            <lastmod>2022-10-03T12:27:08.516Z</lastmod>
         </url>
     
         <url>
@@ -52,32 +37,17 @@
         </url>
     
         <url>
-            <loc>https://www.scenario42.fr/projets/l-anomalie/</loc>
-            <lastmod>2022-10-05T21:15:04.526Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://www.scenario42.fr/projets/l-enchanteur/</loc>
+            <loc>https://www.scenario42.fr/productions/l-enchanteur/</loc>
             <lastmod>2022-10-06T05:53:09.717Z</lastmod>
         </url>
     
         <url>
-            <loc>https://www.scenario42.fr/projets/les-visages/</loc>
-            <lastmod>2022-10-06T06:06:32.036Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://www.scenario42.fr/en/projects/the-anomaly/</loc>
+            <loc>https://www.scenario42.fr/en/in-development/the-anomaly/</loc>
             <lastmod>2022-10-06T06:22:03.945Z</lastmod>
         </url>
     
         <url>
-            <loc>https://www.scenario42.fr/en/projects/the-enchanter/</loc>
-            <lastmod>2022-10-06T06:31:16.493Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://www.scenario42.fr/en/projects/the-genius/</loc>
+            <loc>https://www.scenario42.fr/en/in-development/the-genius/</loc>
             <lastmod>2022-10-06T06:35:23.478Z</lastmod>
         </url>
     
@@ -99,6 +69,36 @@
         <url>
             <loc>https://www.scenario42.fr/a-propos/</loc>
             <lastmod>2023-09-27T13:27:52.229Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://www.scenario42.fr/en-developpement/</loc>
+            <lastmod>2024-09-26T12:47:23.246Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://www.scenario42.fr/en-developpement/l-anomalie/</loc>
+            <lastmod>2024-09-26T12:47:23.251Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://www.scenario42.fr/en-developpement/les-visages/</loc>
+            <lastmod>2024-09-26T12:47:23.260Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://www.scenario42.fr/en/productions/</loc>
+            <lastmod>2024-09-26T12:57:08.656Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://www.scenario42.fr/en/productions/polar-park/</loc>
+            <lastmod>2024-09-26T12:57:08.661Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://www.scenario42.fr/en/productions/the-enchanter/</loc>
+            <lastmod>2024-09-26T12:57:08.665Z</lastmod>
         </url>
     
 </urlset>

@@ -7,12 +7,12 @@ translatedUrl: /en/sitemap/
 # Plan du site
 
 - [Accueil](/)
-- [Projets](/projets)
-  - [Polar Park](/projets/polar-park)
-  - [L'Anomalie](/projets/l-anomalie)
-  - [L'Enchanteur](/projets/l-enchanteur)
-  - [Les Visages](/projets/les-visages)
-  - [La Clé des Champs](/projets/la-cle-des-champs/)
+- [Productions](/productions)
+  - [Polar Park](/productions/polar-park)
+  - [L'Enchanteur](/productions/l-enchanteur)
+- [En développement](/en-developpement)
+  - [L'Anomalie](/en-developpement/l-anomalie)
+  - [Les Visages](/en-developpement/les-visages)
 - [À propos](/a-propos)
 - [Contact](/contact)
 - [Mentions légales](/mentions-legales)
