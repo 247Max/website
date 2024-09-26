@@ -25,9 +25,9 @@ tags:
 
 ## Coproduction
 
-Cineflix
+Connect 3 (Canada)
 
-Cinema Gypsy Productions
+Cinema Gypsy (USA)
 
 ## Created by
 
