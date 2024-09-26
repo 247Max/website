@@ -41,7 +41,7 @@
   }
 
   @include mq(medium) {
-    grid-template-columns: auto auto 1fr;
+    // grid-template-columns: auto auto 1fr;
 
     &_logo {
       opacity: 0;

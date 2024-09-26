@@ -119,3 +119,11 @@
     }
   }
 }
+
+.is-home .menu_link {
+  &[aria-current],
+  &:hover,
+  &:focus {
+    border-bottom-color: #fff;
+  }
+}
