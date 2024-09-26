@@ -6,7 +6,7 @@ translatedUrl: /projets/l-enchanteur/
 order: 3
 image: /images/l-enchanteur.jpg?v=2
 imageList: /images/l-enchanteur.jpg?v=2
-imagePrize: /images/FFTV2023_selection-officielle_noir.jpg
+imagePrize: /images/FFTV2023_selection-officielle_noir.png
 prizeTitle: "Festival de la fiction, sélection officielle 2023"
 # file: /dossiers/polar-park.pdf
 # fileSize: 520ko
