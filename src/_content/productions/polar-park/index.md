@@ -13,7 +13,7 @@ imageList:  /images/covers/list-polar-park-FR-EN.jpg
 director: Gérald Hustache-Mathieu
 genre: Série policière burlesque, français, renouvelable
 length: 6x52min
-releaseDate: Diffusion Automne 2023 <br><strong>Prix Vidocq Meilleure Série Policière 2023 Séries Mania</strong>
+releaseDate: Diffusion Automne 2023 <br><strong>Prix Vidocq Meilleure Série Policière 2024 Séries Mania</strong>
 released: false
 synopsis: "Venu chercher l’inspiration dans le village natal de sa mère, un auteur de romans policiers se retrouve à enquêter sur les traces d’un serial-killer des plus artistiques."
 layout: projet.njk
