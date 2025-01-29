@@ -8,9 +8,10 @@ translatedUrl: /a-propos/
 
 ## Scenario42
 
-Scenario42 (ex-247Max) is an independent company dedicated to TV series and TV movies. It&nbsp;was created in 2019 by former head of drama copros at France Télévisions Médéric Albouy.
+Scenario42 (formerly known as 247Max) is an independent French production company specializing in series and films for television. It is led by Médéric Albouy, the former head of international co-productions at France Télévisions.
 
-Since November 2023, Scenario42 has gone into a strategic partnership with Skybound Entertainment (*The Walking Dead, Invincible*).
+Since November 2023, Scenario42 has been partnered with Skybound Entertainment (*The Walking Dead, Invincible*) as part of a strategic collaboration.
+
 
 <!-- <hr role="presentation">
 
